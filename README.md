@@ -1,1 +1,1 @@
-# my-helm-repo testing
+# my-helm-repository
